@@ -5,7 +5,7 @@ ruby "2.3.3"
 gem 'sinatra'
 gem 'haml'
 gem 'rubyzip'
-gem 'net-ldap', '~> 0.11'
+gem 'net-ldap', '~> 0.16'
 gem 'json'
 gem 'nokogiri' , '1.8.1'
 gem 'do_sqlite3', '0.10.17'

@@ -71,7 +71,7 @@ GEM
     msgpack (1.2.4)
     multi_json (1.13.1)
     mustermann (1.0.3)
-    net-ldap (0.16.1)
+    net-ldap (0.16.2)
     nokogiri (1.8.1)
       mini_portile2 (~> 2.3.0)
     odle (0.0.8)
@@ -111,7 +111,7 @@ DEPENDENCIES
   haml
   json
   msfrpc-client (= 1.1.1)
-  net-ldap (~> 0.11)
+  net-ldap (~> 0.16)
   nokogiri (= 1.8.1)
   odle
   rubyzip
